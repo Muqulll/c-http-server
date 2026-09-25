@@ -31,12 +31,6 @@ curl -I http://localhost:8080
 
 
 
-```
-
-Press **`Ctrl + O`**, hit **`Enter`** to save, and then **`Ctrl + X`** to exit `nano`.
-
-After saving `README.md`, you're ready for the Git commands:
-
 ```bash
 git init
 git add .
