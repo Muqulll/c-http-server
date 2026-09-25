@@ -28,13 +28,3 @@ Open `http://localhost:8080` in your browser or test via `curl`:
 curl -I http://localhost:8080
 
 ```
-
-
-
-```bash
-git init
-git add .
-git status   # Verify that executables (server, mime, modes) are ignored!
-git commit -m "feat: initial C HTTP server with socket programming and MIME handling"
-
-```
