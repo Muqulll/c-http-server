@@ -1,0 +1,10 @@
+# Executables & Binaries
+mime
+modes
+server
+*.o
+*.out
+
+# System / Editor files
+.DS_Store
+*.swp
